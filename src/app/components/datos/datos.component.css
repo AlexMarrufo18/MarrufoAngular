@@ -1,0 +1,23 @@
+.social li {
+    list-style-type: none;
+}
+
+.content {
+    margin-left: -30px;
+}
+
+.fab {
+    font-size: 30px;
+}
+
+.fas {
+    font-size: 30px;
+}
+
+.datos {
+    background-color: rgb(237, 238, 187);
+}
+
+.info {
+    background-color: rgb(59, 54, 102);
+}
